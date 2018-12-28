@@ -1,4 +1,4 @@
-* stellt euch vor, ihr wollt einen Link vom Browser an das Handy senden, oder z.B. ein Passwort.
+* stellt euch vor, ihr wollt einen Link vom Browser an das Handy senden, oder z.B. ein Passwort ().
 * schaut also nach QR-Code-Generator-Add-ons
 * man möchte nat. auch private Daten versenden
 [click]
@@ -6,16 +6,20 @@
 * erstellt Passwörter in "purem JavaScript" [click]
 * und ist dabei ein "Mini-JavaScript-Bibliothek" um den "berühmten QR-Code" zu erhalten" [click]
 * Ja und dieses Add-on hat auch über 4000 Nutzer und überwiegend eine positive Bewertung.
+* Berechtigungen/Permissions: alle Tabs zugreifen, benötigt man unter FF nicht unbedingt
 * Nun habe ich mir gedacht, schau ich mal in den Quellcode: [click]
-* ja… das ist, was heraus kommt…
+* ja… und ich habe es mal herunter geladen,… das ist, was heraus kommt…
 * Ja, diese JS-"Bibliothek" erledigt die schwierige Aufgabe deine Eingabe direkt an Google zu senden [click]
-* es ist natürlich nicht das einige QR-Code-Generator, der dies so macht. Ich noch einige andere Add-ons und diese machen das ganze dann teilweise noch etwas offensichtlicher, was ja dann zumindest transparent ist. [click]
+* es ist natürlich nicht das einige QR-Code-Generator, der dies so macht. Ich noch einige andere Add-ons und diese machen das ganze dann teilweise noch etwas offensichtlicher, was ja dann zumindest transparent ist.
+* da ist in der URL an Google dann halt dein Passwort bspw. [click]
 * man sieht es hier natürlich auch im Quellcode [click]
 * Ja, und als Alternative habe ich dann mein eigenes QR-Code-Generator-Browser-Addon entwickelt, welches den QR-Code offline erstellt
 * das ist es… [click]
-* und es hat auch Usability-mäßig etwas zu bieten: z.B. direkt von Link & von Auswahl erstellen [click]
+* und es hat auch Usability-mäßig etwas zu bieten: z.B. kann man Rechtsklick machen und im Kontextmenü Rechtsklick direkt von Link & von Auswahl erstellen [click]
 * oder den QR abspeichern [click]
 * viele Optionen und der QR-Code ist auch einfach größenveränderlich usw.
 * aktuell nur für Firefox erhältlich, aber Pull Requests für andere Browser werden gerne akzeptiert
 * Ja und sonst: Downloadet ihn euch! Testet ihn aus.
+* leichtgewichtigtes Add-on (< 200 kiB) und einfach isolieren
+* 500 tägliche Nutzer, Stats sind öffentlich
 
