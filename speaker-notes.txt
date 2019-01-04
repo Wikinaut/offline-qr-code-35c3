@@ -1,4 +1,4 @@
-* stellt euch vor, ihr wollt einen Link vom Browser an das Handy senden, oder z.B. ein Passwort – man sollte meinen, das ist sicher.
+* stellt euch vor, ihr wollt einen Link vom Browser an das Handy senden, oder z.B. ein Passwort – man sollte meinen, dass ist sicher.
 * schaut also nach QR-Code-Generator-Add-ons
 * man möchte nat. auch private Daten versenden
 [click]
